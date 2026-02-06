@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Flashcards Pro (React Refactor)",
+  "description": "A professional, high-performance flashcard application with Excel import/export, QR code sharing, and AI-powered card generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
